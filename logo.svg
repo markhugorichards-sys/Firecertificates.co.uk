@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 60" width="320" height="60">
+  <!-- Shield mark -->
+  <g transform="translate(4, 4)">
+    <!-- Outer shield gold -->
+    <polygon points="26,0 52,0 52,26 26,52 0,26 0,0" fill="#b8922a"/>
+    <!-- Inner shield black -->
+    <polygon points="26,4 48,4 48,26 26,47 4,26 4,4" fill="#0a0a0a"/>
+    <!-- FC lettermark -->
+    <text x="26" y="32" text-anchor="middle"
+          font-family="Arial Black, Arial, sans-serif"
+          font-size="18" font-weight="900"
+          fill="#b8922a" letter-spacing="-1">FC</text>
+  </g>
+  <!-- Wordmark -->
+  <text x="68" y="34"
+        font-family="Arial Black, Arial, sans-serif"
+        font-size="22" font-weight="900"
+        fill="#0a0a0a" letter-spacing="-0.5">FireCertificates</text>
+  <text x="68" y="50"
+        font-family="Arial, sans-serif"
+        font-size="11" font-weight="400"
+        fill="#b8922a" letter-spacing="2">.CO.UK</text>
+</svg>
